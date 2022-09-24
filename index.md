@@ -2,6 +2,6 @@
 title: Welcome to my blog
 ---
 
-# I am testing github pagea!
+# Hello Bryan! If you see this, it worked.
 
-## Hope this works :)
+### My very first discord page blog!
